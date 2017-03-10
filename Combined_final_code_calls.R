@@ -5,7 +5,7 @@ library(dplyr)
 library(reshape2)
 library(aws.s3)
 library(RJSONIO)
-library(plyr)
+
 #####################################################################
 #### Setting S3 environment .######################################################
 Sys.setenv("AWS_ACCESS_KEY_ID" ='AKIAIVYJXYSVCXM52T4Q',  
